@@ -1,0 +1,1 @@
+Run: python app.py\nDB file: grocery.db (auto-created with sample data)\n
